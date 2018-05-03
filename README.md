@@ -44,6 +44,10 @@ To run in the background:
 
     sudo ssserver -p 443 -k password -m aes-256-cfb --user nobody -d start
 
+```
+    sudo ssserver -p 567 -k libernonly -m rc4-md5 --user nobody -d start
+```
+
 To stop:
 
     sudo ssserver -d stop
