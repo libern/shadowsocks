@@ -24,6 +24,12 @@ Server
 
 Debian / Ubuntu:
 
+```
+    sudo apt update
+    sudo apt install shadowsocks-libev
+```
+
+
     apt-get install python-pip
     pip install shadowsocks
 
