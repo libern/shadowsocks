@@ -25,8 +25,8 @@ Server
 Debian / Ubuntu:
 
 ```
-    sudo apt update
-    sudo apt install shadowsocks-libev
+sudo apt update
+sudo apt install shadowsocks-libev
 ```
 
 
